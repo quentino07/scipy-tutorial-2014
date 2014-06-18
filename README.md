@@ -27,4 +27,5 @@ Duration
 --------
 
 The tutorial will cover four hours
+
 Quentin modified
